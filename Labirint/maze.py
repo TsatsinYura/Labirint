@@ -1,4 +1,5 @@
 from pygame import *
+from time import*
 '''Шрифт'''
 font.init()
 font = font.SysFont('Times New Roman',50)
